@@ -1,0 +1,35 @@
+D:\ASP CODE\19-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.CustomerQueueManagementUI.resources
+D:\ASP CODE\19-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.Properties.Resources.resources
+D:\ASP CODE\19-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.csproj.GenerateResource.Cache
+D:\ASP CODE\19-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe.config
+D:\ASP CODE\19-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe
+D:\ASP CODE\19-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.pdb
+D:\ASP CODE\19-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.exe
+D:\ASP CODE\19-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.pdb
+D:\ASP CODE\19-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.csprojResolveAssemblyReference.cache
+E:\19-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.CustomerQueueManagementUI.resources
+E:\19-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.Properties.Resources.resources
+E:\19-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.csproj.GenerateResource.Cache
+E:\19-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe.config
+E:\19-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe
+E:\19-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.pdb
+E:\19-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.exe
+E:\19-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.pdb
+E:\19-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.csprojResolveAssemblyReference.cache
+E:\21-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe.config
+E:\21-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe
+E:\21-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.pdb
+E:\21-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.CustomerQueueManagementUI.resources
+E:\21-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.Properties.Resources.resources
+E:\21-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.csproj.GenerateResource.Cache
+E:\21-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.exe
+E:\21-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.pdb
+D:\ASP CODE\21-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe.config
+D:\ASP CODE\21-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.exe
+D:\ASP CODE\21-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.pdb
+D:\ASP CODE\21-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe
+D:\ASP CODE\21-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.pdb
+D:\ASP CODE\21-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.csprojResolveAssemblyReference.cache
+D:\ASP CODE\21-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.CustomerQueueManagementUI.resources
+D:\ASP CODE\21-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.Properties.Resources.resources
+D:\ASP CODE\21-12-2014\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.csproj.GenerateResource.Cache

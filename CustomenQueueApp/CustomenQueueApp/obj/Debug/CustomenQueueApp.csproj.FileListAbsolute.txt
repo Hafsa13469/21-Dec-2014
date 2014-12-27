@@ -1,0 +1,9 @@
+D:\ASP CODE\21-12-2014\CustomenQueueApp\CustomenQueueApp\bin\Debug\CustomenQueueApp.exe.config
+D:\ASP CODE\21-12-2014\CustomenQueueApp\CustomenQueueApp\obj\Debug\CustomenQueueApp.csprojResolveAssemblyReference.cache
+D:\ASP CODE\21-12-2014\CustomenQueueApp\CustomenQueueApp\obj\Debug\CustomenQueueApp.CustomerQueueUI.resources
+D:\ASP CODE\21-12-2014\CustomenQueueApp\CustomenQueueApp\obj\Debug\CustomenQueueApp.Properties.Resources.resources
+D:\ASP CODE\21-12-2014\CustomenQueueApp\CustomenQueueApp\obj\Debug\CustomenQueueApp.csproj.GenerateResource.Cache
+D:\ASP CODE\21-12-2014\CustomenQueueApp\CustomenQueueApp\bin\Debug\CustomenQueueApp.exe
+D:\ASP CODE\21-12-2014\CustomenQueueApp\CustomenQueueApp\bin\Debug\CustomenQueueApp.pdb
+D:\ASP CODE\21-12-2014\CustomenQueueApp\CustomenQueueApp\obj\Debug\CustomenQueueApp.exe
+D:\ASP CODE\21-12-2014\CustomenQueueApp\CustomenQueueApp\obj\Debug\CustomenQueueApp.pdb
